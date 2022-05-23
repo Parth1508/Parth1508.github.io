@@ -1,0 +1,33 @@
+
+.slick-cont {
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+
+  }
+  
+  .slick-slide {
+    height: 150px;
+    
+    box-sizing: border-box;
+  }
+  
+  .slick-slide img {
+    height: 200px;
+    /* width: 0%; */
+    border: 2px solid white;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 0 auto;
+  }
+  .blogs-main{
+      margin-top: 5rem;
+  }
+  .blogs-header{
+        margin: 2% 0;   
+        font-weight: 700;
+        font-size: 40px;
+        text-align: center;
+  }
+ 
+  

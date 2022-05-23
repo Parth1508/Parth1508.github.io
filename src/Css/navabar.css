@@ -1,0 +1,78 @@
+/* .pageheader-company-logo{
+    color: cyan;
+    float: left;
+    padding: 15px 15px;
+    font-size: 18px;
+}
+
+.pageheader-logo {
+    max-width: 10rem;
+    height: auto;
+      padding: 15px 15px;
+  }
+  .Pageheader-maindiv{
+    z-index: 10;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0
+}
+
+.pageheader-data{
+    color: white;
+}
+.pageheader-links{
+    color: black !important;
+
+    font-size: 18px;
+}
+.page-header-nav
+{
+    justify-content: space-between;
+    padding: 0px 85px;
+} */
+
+
+
+
+
+
+
+.App-logo{
+    width: 35%;
+    max-width: 30rem;
+    pointer-events: none;
+    height: auto;
+}
+/* Page header1 css  */
+.margin-icon {
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+  }
+  .navbarClass {
+    z-index: 10;
+    background: #ebebeb;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+  }
+  .headLinkTab {
+    color: black !important;
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    line-height: 45px;
+  }
+  
+  .logTab {
+    color: blue !important;
+  }
+  .signTab {
+    color: blue !important;
+  }

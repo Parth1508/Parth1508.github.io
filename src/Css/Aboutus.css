@@ -1,0 +1,21 @@
+.aboutus-text{
+    text-align: center;
+    color: Cyan;
+    font-size: 40px;
+}
+.aboutus-main{
+    background-color: black;
+
+}
+.aboutus-info{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.aboutus-img{
+    text-align: center;
+}
+.aboutus-span{
+padding: 80px 0px;
+color: white;
+}

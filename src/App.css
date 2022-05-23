@@ -1,0 +1,108 @@
+/* added cson footer */
+.mb-footer-main{
+    margin-bottom: 30px;
+  }
+  .footer {
+    padding: 92px 0;
+    background-color: #1a1b1f !important;
+  }
+  
+  .ft {
+    font-size: 14px !important;
+    letter-spacing: 0;
+    line-height: 25px;
+    color: #808080;
+    margin-bottom: 0;
+    text-align: left !important;
+    padding: 0px;
+    padding-left:110px;
+  }
+  .logo {
+    width: 55%;
+    margin-bottom: 18px;
+    height: auto;
+    vertical-align: middle;
+    border-style: none;
+  }
+  .head {
+    font-weight: bold !important;
+    font-size: 14px !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+    margin-bottom: 30px !important;
+    padding: 10px 0px 0px 0px !important;
+  }
+  .inside-contRow {
+    /* padding-right: 12px !important; */
+    /* max-width: px !important; */
+    text-align: center;
+  }
+  .footer-anchor {
+    padding: 0px;
+    background-color: #1a1b1f !important;
+    margin: 0px !important;
+    border-width: 0px 0 0px !important;
+    font-size: 14px;
+    color: #6f6f71 !important;
+    transition: 0.2s ease;
+    max-width: auto;
+  }
+  
+  .footer-anchor {
+    color: #6f6f71 !important;
+    transition: .2s ease;
+  }
+  .footer-anchor:hover {
+    color: #fff !important;
+  }
+  
+  .footermain {
+    padding: 92px 0 !important;
+    background: #1a1b1f;
+  }
+  /* footer End */
+  /* Footer Icons Start */
+.Social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+  }
+  
+  .social-icon {
+    margin-right: 10px;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    background: #3f3f43;
+    padding-top: 4px;
+  }
+  .FaIcons {
+    text-decoration: none;
+    color: #fff;
+  }
+  .FaIcons:hover {
+    color: #fff;
+  }
+  .appbutton {
+    vertical-align: middle;
+    width: 13%;
+    background: none;
+    border-radius: 100px;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .appbutton:hover {
+    color: white;
+    text-decoration: none;
+    background: none;
+  }
+  .appIcon {
+    font-size: 35px;
+    padding-bottom: 7px;
+  }
+  .FaIcons{
+      font-size: 18px;
+  }
+  /* Footer Icons End */

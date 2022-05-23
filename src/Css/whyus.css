@@ -1,0 +1,33 @@
+.whyus-text{
+    text-align: center;
+    margin-top: -20px;
+    background-color: #f8f6f6;
+}
+.whyus-info{
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+.whyus-info-image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.whyus-span{
+    padding: 20px 0px;
+    font-weight: 700;
+    font-size: 25px;
+}
+.whyUs-main{
+    margin-bottom: 30px;
+}
+.whyus-info-image span{
+    margin: 10px 0px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.whyus-cont
+{
+    padding: 0px 40px;
+}
+

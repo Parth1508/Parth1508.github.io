@@ -1,0 +1,19 @@
+.contactus-image{
+    width: 100%;
+
+}
+.contactus-span{
+    position: absolute;
+    top: 50px;
+    left:5%;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.contactus-header{
+    position: absolute;
+    top: 65px;
+    left:44%;
+    font-size: 2rem;
+    font-weight: 700;
+    
+}
